@@ -1,4 +1,4 @@
-# README - SR05 - Projet de Système Réparti pour la Simulation de la Vente de Billets de Train
+# README - Projet de Système Réparti pour la Simulation de la Vente de Billets de Train
 
 Ce projet a pour objectif de concevoir un système distribué simulant la vente de billets de train, où différentes applications clientes et contrôleurs peuvent interagir et se synchroniser de manière décentralisée. Le système est structuré pour prendre en charge plusieurs trains, chacun étant traité comme une donnée répartie au sein du réseau.
 
@@ -30,6 +30,6 @@ Il est nécessaire d'installer la dépendance avec `go get -u github.com/perlin-
     PS: on trouve le numéro de la "cible" sur le terminal du contrôleur net.
 
 
-## Auteur
+## Auteurs
 
 Ce projet est développé par Dingwei Liu, Nuo Chen, Ismaël Driche et Alexandre Gauvin
